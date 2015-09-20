@@ -680,11 +680,11 @@ a {
   border: 1px solid #006b98;
 }
 #header .header-nav .social a.weixin {
-  background: url("/img/weixin.png") center no-repeat #a4d49d;
-  border: 1px solid #a4d49d;
+  background: url("/img/weixin.png") center no-repeat #78c24e;
+  border: 1px solid #78c24e;
 }
 #header .header-nav .social a.weixin:hover {
-  border: 1px solid #37b44a;
+  border: 1px solid #66c130;
 }
 #header .switch-part {
   width: 100%;
